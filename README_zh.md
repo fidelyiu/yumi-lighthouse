@@ -10,6 +10,13 @@
 - [共产文献](https://github.com/fidelyiu/communist-party-documents)
   - [gitee repo](https://gitee.com/fidelyiu/communist-party-documents)
 
+## 快速开始
+
+```bash
+docker pull fidelyiu/lighthouse:latest
+docker run -d --name lighthouse-web -p 8080:8080 fidelyiu/lighthouse
+```
+
 ## 帮助我们
 
 在上海是否有朋友需要像 `lighthouse-cli` 类似的定制软件？如果你需要可以和我们合作。
