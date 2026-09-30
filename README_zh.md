@@ -1,5 +1,7 @@
 # 玉米灯塔
 
+我很高兴你能找到这里，请使用lighthouse-cli搭建属于我们自己的开罗尔网络吧。
+
 这个 repo (国内repo [yumi-lighthouse](https://gitee.com/fidelyiu/yumi-lighthouse), 国内repo仅用于同步查看作用) 将用于:
 
 - 维护玉米灯塔的版本分发、issue讨论等。

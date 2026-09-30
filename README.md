@@ -1,5 +1,7 @@
 # YuMi Lighthouse
 
+I'm glad you found your way here. Let's use lighthouse-cli to build our very own Chiral Network.
+
 [简体中文](./README_zh.md)
 
 This repository will be used for:
