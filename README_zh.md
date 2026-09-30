@@ -25,8 +25,4 @@ docker run -d --name lighthouse-web -p 8080:8080 fidelyiu/lighthouse
 
 ## 帮助我们
 
-在上海是否有朋友需要像 `lighthouse-cli` 类似的定制软件？如果你需要可以和我们合作。
-
-我们现在不知道如何让自己盈利、变现。
-
-在如今的AI时代，手工代码或许已经变得一文不值。我们现在也非常窘迫。
+我们需要帮助...
