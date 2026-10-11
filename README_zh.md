@@ -19,9 +19,13 @@ docker run -d --name lighthouse-web -p 8080:8080 fidelyiu/lighthouse
 - [共产文献](https://github.com/fidelyiu/communist-party-documents)
   - [gitee repo](https://gitee.com/fidelyiu/communist-party-documents)
 
-## Lighthouse Links
+## HTTPS 灯塔链接
 
 - [上海浦东川沙灯塔](https://shanghai-lighthouse.yumi-box-dev.com/)
+
+## 客户端只读灯塔链接
+
+- [vxiaoxin.github.io](https://vxiaoxin.github.io/)
 
 ## 帮助我们
 
